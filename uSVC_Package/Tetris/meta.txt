@@ -1,0 +1,15 @@
+Tetris
+  Tetris!
+ 
+ 
+ 
+A Tetris clone
+for uSVC using
+bitmapped mode
+
+Nicola Wrachien
+
+15-05-20
+V1.00
+
+
