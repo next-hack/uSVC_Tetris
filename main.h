@@ -31,5 +31,4 @@
 #define UCHIPPLAY_H_
 #include "usvc_kernel/usvc_kernel.h"
 #include "tetris.h"
-//#define FORCE_USB_DFLL48MHZ
-#endif /* UCHIPPLAY_H_ */
+#endif /* MAIN_H_ */
